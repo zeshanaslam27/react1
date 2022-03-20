@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "name": "ahmed",
+      "username": "ahmed12345",
+      "email": "ahmed@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "saad ali",
+      "username": "saad123",
+      "email": "saad@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "zain",
+      "username": "zain1",
+      "email": "z@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "saim",
+      "username": "saim234",
+      "email": "saim234@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "haider",
+      "username": "haider1",
+      "email": "haider@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "asad",
+      "username": "asad1",
+      "email": "Asad@gail.com",
+      "id": 12
+    },
+    {
+      "name": "asad",
+      "username": "asad1",
+      "email": "Asad@gail.com",
+      "id": 13
+    },
+    {
+      "name": "asad",
+      "username": "asad1",
+      "email": "Asad@gail.com",
+      "id": 14
+    },
+    {
+      "name": "dain",
+      "username": "2342r",
+      "email": "sdfnsdkj",
+      "id": 18
+    },
+    {
+      "name": "ahsan",
+      "username": "zxc",
+      "email": "sfklsdfakl",
+      "id": 19
+    },
+    {
+      "name": "sdfdf",
+      "username": "xccds",
+      "email": "ssddd",
+      "id": 20
+    },
+    {
+      "name": "ali khan",
+      "username": "khan1",
+      "email": "ahmed@gmail.com",
+      "id": 21
+    }
+  ]
+}
